@@ -15,7 +15,7 @@ sidebar:
   email: sampablo-jisc@outlook.com
   phone: 312-225-06-08
 #  website: # No agregar http://
-#  linkedin: brightcoders
+  linkedin: 'javier-sampablo'
   github: SampabloC
 #  gitlab:
 #  bitbucket:
@@ -31,9 +31,6 @@ sidebar:
 
     - idiom: Spanish
       level: Native # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
-      
-    - idiom: Chinese
-      level: Novice
 
 
   # Registra aquí tus soft skills. Agrega o elimina según sea necesario
@@ -66,7 +63,7 @@ sidebar:
 career-profile:
   title: About Me # NO MODIFICAR
   summary: |
-    I am a Computational Systems Engineering student on 8th period who like to learn new skills about programming
+    I am a Computational Systems Engineering student on 9th period who like to learn new skills about programming
     and improving my work.
     
     I am a person with a great disposition for teamwork.
